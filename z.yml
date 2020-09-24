@@ -1,0 +1,13 @@
+---
+description: Driver for Rohm BH1750FVI ambient light sensor
+fullname: lib.rohm.bh1750fvi
+info:
+    chip_manufacturer: Rohm
+    chip_name: BH1750FVI
+    name: Ambient Light Sensor
+    type: Sensor
+keywords:
+- rohm
+- ambient light
+title: BH1750FVI Ambient Light Sensor
+...
